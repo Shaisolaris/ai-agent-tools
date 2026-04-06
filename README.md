@@ -1,5 +1,7 @@
 # ai-agent-tools
 
+![CI](https://github.com/Shaisolaris/ai-agent-tools/actions/workflows/ci.yml/badge.svg)
+
 AI agent with ReAct reasoning loop, 5 tools (web search, web fetch, code execution, save memory, recall memory), automatic tool chaining, and conversation memory. Uses OpenAI function calling for tool selection and FastAPI for serving.
 
 ## Tools
